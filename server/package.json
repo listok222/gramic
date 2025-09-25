@@ -16,3 +16,4 @@
     "dotenv": "^16.3.1"
   }
 }
+"postinstall": "cd client && npm install"
