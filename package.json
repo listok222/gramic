@@ -9,3 +9,4 @@
     "react-scripts": "^5.0.1"
   }
 }
+"postinstall": "cd client && npm install"
